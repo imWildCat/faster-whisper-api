@@ -34,7 +34,7 @@ def offload_model():
         model = None
 
 def check_token(credentials: HTTPAuthorizationCredentials = Depends(security)):
-    if credentials.scheme != "Bearer" or credentials.credentials != os.getenv("API_KEY", default="233catcatcat"):
+    if credentials.scheme != "Bearer" or credentials.credentials != os.getenv("API_KEY"):
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Invalid authorization code",

@@ -6,6 +6,8 @@ services:
       dockerfile: Dockerfile
     depends_on:
       - cloudflared
+    environment:
+      - API_KEY
     deploy:
       resources:
         reservations:
