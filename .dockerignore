@@ -1,0 +1,7 @@
+.git
+.env
+venv
+.env.example
+docker-compose.yml
+README.md
+deployment

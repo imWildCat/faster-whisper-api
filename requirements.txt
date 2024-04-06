@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faster-whisper
+python-multipart
+python-dotenv
+
+
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
