@@ -1,5 +1,17 @@
 # Self-hosted Faster Whisper API, Compatible with OpenAI's Whisper API
 
+## Apple Shortcut
+
+
+### English 
+
+* Self-hosted version: <https://www.icloud.com/shortcuts/fc52254d27cd4a10aba792f66510b3a6>
+* OpenAI version: <https://www.icloud.com/shortcuts/59fc74df20fc4e54abba8afb91a5d562>
+
+### Traditional Chinese
+
+Original version (OpenAI): <https://onenewbite.gumroad.com/l/whisper?layout=profile&recommended_by=library>
+
 
 ## Get Started (Docker Compose)
 
