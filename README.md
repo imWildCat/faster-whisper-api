@@ -50,8 +50,6 @@ It would save you ~5 mins of building the image.
 The MIT License (MIT)
 
 
-
-
 # 自架 Faster Whisper API，兼容 OpenAI 的 Whisper API
 
 ## 🍎 Apple 快捷方式
@@ -68,7 +66,7 @@ The MIT License (MIT)
 
 你需要：
 
-1. 一台帶有 NVIDIA GPU 的電腦
+1. 一臺帶有 NVIDIA GPU 的電腦
 2. 連接到公共互聯網以將此服務暴露給公眾
 
 ```shell
@@ -93,7 +91,7 @@ services:
 +  image: ghcr.io/imwildcat/faster-whisper-api:main
 ````
 
-然後運行 `docker-compose up -d` 啓動服務。
+然後運行 `docker-compose up -d` 啟動服務。
 這將節省您約 5 分鐘的鏡像構建時間。
 
 ## 許可證
