@@ -5,8 +5,7 @@
 
 ### English 
 
-* Self-hosted version: <https://www.icloud.com/shortcuts/fc52254d27cd4a10aba792f66510b3a6>
-* OpenAI version: <https://www.icloud.com/shortcuts/59fc74df20fc4e54abba8afb91a5d562>
+<https://s.catstudio.app/buy/88508b33-0d52-4ad2-a4f5-0768afa17d9c>
 
 ### Traditional Chinese
 
